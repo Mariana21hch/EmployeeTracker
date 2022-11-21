@@ -63,11 +63,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 ---
 
 ## Installation:
-
+1 lone from GitHub
+2 Open project directory, then npm install to install all required dependencies
 
 
     Clone the repo: https://github.com/Mariana21hch/EmployeeTracker
-
 
 
 ---
@@ -87,9 +87,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Authors and Acknowlegements:
 
-https://www.youtube.com/watch?v=Qo71smMMQBc&ab_channel=GitBinx
-
-https://www.youtube.com/watch?v=BSVWmsGU4Dc&ab_channel=SPARCPLUSTECH
 
 ---
 
