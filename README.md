@@ -60,6 +60,10 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Visual:
 
+![terminal](./assets/add%20emploee.PNG)
+![terminal index](./assets/index%20snip.PNG)
+
+Youtube: https://studio.youtube.com/video/ovgPVrc4TTg/edit
 ---
 
 ## Installation:
@@ -87,6 +91,13 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Authors and Acknowlegements:
 
+https://github.com/EdenKhaos/12-mysql-employee-tracker/blob/master/server.js
+
+https://www.youtube.com/watch?v=3KO_BLuK9AQ&ab_channel=AustinCuddeback
+
+https://www.youtube.com/watch?v=w9060mXfXys&ab_channel=EsmondKim
+
+https://www.youtube.com/watch?v=FVxvBmvYZ64&ab_channel=SPARCPLUSTECH
 
 ---
 
